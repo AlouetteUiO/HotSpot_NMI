@@ -1,0 +1,4 @@
+name: hotspot_nmi
+dependencies:
+- python=3.8
+- pip
